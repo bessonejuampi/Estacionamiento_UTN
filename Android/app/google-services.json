@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331263889894",
+    "firebase_url": "https://esp8266-iot-utn-frsf-default-rtdb.firebaseio.com",
+    "project_id": "esp8266-iot-utn-frsf",
+    "storage_bucket": "esp8266-iot-utn-frsf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331263889894:android:5b3c660ac8f1613a1d8627",
+        "android_client_info": {
+          "package_name": "com.trivi12.estacionamientoutn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331263889894-jg1t3sc1knvkkrm6sg6p5v29ashbduqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trivi12.estacionamientoutn",
+            "certificate_hash": "5f28c30becb91c96bbb343f991f3d1c4167bcdd6"
+          }
+        },
+        {
+          "client_id": "331263889894-sf66qdl3ckgelkar0plqhvrsn5nl2hh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Pq_W-nX6QyX2HMuszdpBzOxmBpTpSA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331263889894-sf66qdl3ckgelkar0plqhvrsn5nl2hh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
